@@ -1,5 +1,5 @@
 # Eduard Valera i Zorita
-This is my CV. Feel free to download either in TEX or PDF.
+This is my CV. Feel free to [download in PDF](cv_ezorita.pdf).
 
 ## Using Friggeri template
 This template has been adapted from Friggeri's CV template.
