@@ -33,3 +33,7 @@ If that didn't work, try the following:
 - Download and extract the biber binary.
 - Replace the old biber binary with this one (if you had a previous version): `sudo cp biber $(which biber)`
 - If you had no previous `biber` binary, just: `sudo cp biber /usr/bin/`
+
+#### Installing the fonts:
+- Extract the file `fonts.tar.gz` in `~/.fonts/`.
+- Run `sudo fc-cache -fv`.
